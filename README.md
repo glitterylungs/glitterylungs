@@ -1,4 +1,4 @@
-<h1 align="center" style="color: #F97372">Hi there, I'm Alice - glitterylungs 👋</h1>
+<h1 align="center" color="#F97372">Hi there, I'm Alice - glitterylungs 👋</h1>
 <h3 align="center">Future iOS Developer</h3>
 
 - 🔭 I’m currently working on [QuizGenerator](https://github.com/glitterylungs/QuizGenerator)
