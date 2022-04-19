@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alice</h1>
+<h1 align="center">Hi there, I'm Alice - glitterylungs 👋</h1>
 <h3 align="center">Future iOS Developer</h3>
 
 - 🔭 I’m currently working on [QuizGenerator](https://github.com/glitterylungs/QuizGenerator)
@@ -21,6 +21,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=glitterylungs&label=Profile%20views&color=0e75b6&style=flat" alt="glitterylungs" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glitterylungs&show_icons=true&locale=en&layout=compact" alt="glitterylungs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=glitterylungs&show_icons=true&locale=en&layout=compact&theme=dracula" alt="glitterylungs" /></p>
 
 
