@@ -1,7 +1,7 @@
 <h1 align="center">Hi there,   I'm Alice - glitterylungs 👋</h1>
 <h3 align="center">Future iOS Developer</h3>
 
-- 🔭 I’m currently working on [QuizGenerator](https://github.com/glitterylungs/QuizGenerator)
+- 🔭 I’m currently working on [CantorMVVM](https://github.com/glitterylungs/CantorMVVM)
 
 - 🌱 I’m currently learning **iOS Development, Data Analysis and MVVM**
 
