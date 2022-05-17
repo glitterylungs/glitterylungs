@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [HandwrittenDigitRecognition](https://github.com/glitterylungs/CantorMVVM](https://github.com/karolcieply/Mathematical-Equation-Solver)
 
+
 - 🌱 I’m currently learning **iOS Development, Data Analysis and MVVM**
 
 - 📫 How to reach me **alicjagruca6@gmail.com**
