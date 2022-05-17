@@ -1,7 +1,7 @@
 <h1 align="center">Hi there,   I'm Alice - glitterylungs 👋</h1>
 <h3 align="center">Future iOS Developer</h3>
 
-- 🔭 I’m currently working on [HandwrittenDigitRecognition]([https://github.com/glitterylungs/CantorMVVM](https://github.com/karolcieply/Mathematical-Equation-Solver))
+- 🔭 I’m currently working on [HandwrittenDigitRecognition](https://github.com/glitterylungs/CantorMVVM](https://github.com/karolcieply/Mathematical-Equation-Solver)
 
 - 🌱 I’m currently learning **iOS Development, Data Analysis and MVVM**
 
