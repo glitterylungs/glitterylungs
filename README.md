@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,   I'm Alice - glitterylungs 👋</h1>
-<h3 align="center">Future iOS Developer</h3>
+
 
 - 🔭 I’m currently working on [HandwrittenDigitRecognition](https://github.com/karolcieply/Mathematical-Equation-Solver)
 
