@@ -1,9 +1,4 @@
-<h1 align="center">Hi there,   I'm Alice - glitterylungs 👋</h1>
-
-
-- 🔭 I’m currently working on [HandwrittenDigitRecognition](https://github.com/karolcieply/Mathematical-Equation-Solver)
-
-- 🌱 I’m currently learning **iOS Development, Data Analysis and MVVM**
+<h1 align="center">Hi there,   I'm Alicja - glitterylungs 👋</h1>
 
 - 📫 How to reach me **alicjagruca6@gmail.com**
 
